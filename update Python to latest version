@@ -1,0 +1,5 @@
+1. check python version: python -V
+2. check the python version alternatives: ls /usr/bin/python*
+3. change your version priorities: update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
+  update-alternatives --install /usr/bin/python python /usr/bin/python3.8 2
+4. list and check the updates: update-alternatives --config python
