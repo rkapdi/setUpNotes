@@ -3,3 +3,5 @@ sudo apt install python3-pip
 sudo apt install python-is-python3
 
 https://stackoverflow.com/questions/61699983/upgrade-to-ubuntu-20-04-killed-pip
+
+https://itsfoss.com/apt-command-guide/
